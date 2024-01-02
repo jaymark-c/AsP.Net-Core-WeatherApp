@@ -44,7 +44,8 @@ namespace RazorViews_WeatherApp.Controllers
             if(city == null)
             {
                 Response.StatusCode = 400;
-                return View("NotFoundView");
+                return View("InvalidCode");
+                //return NotFound("InvalidCode");
             }
             //return Json(city);
             return View(city);
