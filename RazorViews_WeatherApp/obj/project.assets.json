@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Services >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\carba\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\carba\\School_Stuff\\Udemy_ASPdotNet_Core\\RazorViews_WeatherApp\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\carba\\School_Stuff\\Udemy_ASPdotNet_Core\\RazorViews_WeatherApp\\Services\\Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

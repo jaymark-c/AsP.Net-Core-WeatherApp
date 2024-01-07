@@ -25,3 +25,7 @@ C:\Users\carba\School_Stuff\Udemy_ASPdotNet_Core\RazorViews_WeatherApp\RazorView
 C:\Users\carba\School_Stuff\Udemy_ASPdotNet_Core\RazorViews_WeatherApp\RazorViews_WeatherApp\obj\Debug\net6.0\ref\RazorViews_WeatherApp.dll
 C:\Users\carba\School_Stuff\Udemy_ASPdotNet_Core\RazorViews_WeatherApp\RazorViews_WeatherApp\obj\Debug\net6.0\RazorViews_WeatherApp.RazorAssemblyInfo.cache
 C:\Users\carba\School_Stuff\Udemy_ASPdotNet_Core\RazorViews_WeatherApp\RazorViews_WeatherApp\obj\Debug\net6.0\RazorViews_WeatherApp.RazorAssemblyInfo.cs
+C:\Users\carba\School_Stuff\Udemy_ASPdotNet_Core\RazorViews_WeatherApp\RazorViews_WeatherApp\bin\Debug\net6.0\Services.dll
+C:\Users\carba\School_Stuff\Udemy_ASPdotNet_Core\RazorViews_WeatherApp\RazorViews_WeatherApp\bin\Debug\net6.0\Services.pdb
+C:\Users\carba\School_Stuff\Udemy_ASPdotNet_Core\RazorViews_WeatherApp\RazorViews_WeatherApp\obj\Debug\net6.0\RazorViews_WeatherApp.csproj.AssemblyReference.cache
+C:\Users\carba\School_Stuff\Udemy_ASPdotNet_Core\RazorViews_WeatherApp\RazorViews_WeatherApp\obj\Debug\net6.0\RazorViews_WeatherApp.csproj.CopyComplete
